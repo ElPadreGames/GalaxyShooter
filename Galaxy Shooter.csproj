@@ -235,7 +235,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Galaxy Shooter\Scripts\Laser.cs" />
     <Compile Include="Assets\Galaxy Shooter\Scripts\Player.cs" />
+    <Compile Include="Assets\Galaxy Shooter\Scripts\PowerUp.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Galaxy Shooter\Materials\Shaders\Galaxy.shader" />
